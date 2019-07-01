@@ -1,6 +1,6 @@
 # Azure Active Directory for Linux
 
-https://cyberninjas.github.io/aad-for-linux
+<a href="https://cyberninjas.github.io/aad-for-linux">cyberninjas.github.io/aad-for-linux</a>
 
 ## Projects
 
