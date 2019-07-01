@@ -1,5 +1,12 @@
 # Azure Active Directory for Linux
 
+## Projects
+
+- https://github.com/CyberNinjas/pam_aad
+- https://github.com/CyberNinjas/libnss_aad
+- https://github.com/CyberNinjas/openvpn-auth-aad
+- https://github.com/CyberNinjas/puppet-aad
+
 ## License
 
 This repository contains software licensed under the GNU General Public License version three or any later version.
