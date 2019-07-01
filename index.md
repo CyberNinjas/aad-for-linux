@@ -13,7 +13,7 @@
 
 ## License
 
-This repository contains software licensed under the GNU General Public License version three or any later version.
+This repository contains software licensed under the GNU General Public License v3 or any later version.
 For more information on the terms and conditions, see [COPYING](https://raw.githubusercontent.com/CyberNinjas/aad-for-linux/master/COPYING).
 
 ## See Also
