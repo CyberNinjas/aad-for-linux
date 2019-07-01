@@ -18,11 +18,9 @@
         
         <!-- Azure Active Directory Logo -->
         <!-- https://docs.microsoft.com/en-us/azure/active-directory/develop/howto-add-branding-in-azure-ad-apps -->
-        <a href="https://docs.microsoft.com/en-us/azure/active-directory/fundamentals/active-directory-whatis">
-          <img src="{{ "/assets/img/ms-logo.png" | relative_url}}" alt="Microsoft Logo" />
-        </a>
-
-        <p>{{ site.description | default: site.github.project_tagline }}</p>
+        <p><a href="https://docs.microsoft.com/en-us/azure/active-directory/fundamentals/active-directory-whatis">
+          <img src="{{ "/assets/img/ms-logo.png" | relative_url}}" alt="Microsoft Logo" />{{ site.description | default: site.github.project_tagline }}</a>
+        </p>
 
         {% if site.github.is_project_page %}
         <p class="view"><a href="{{ site.github.repository_url }}">View the Project on GitHub <small>{{ site.github.repository_nwo }}</small></a></p>
