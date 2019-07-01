@@ -4,3 +4,8 @@
 @import "{{ site.theme }}";
 
 @import url("https://cyberninjas.com/wp-content/themes/cyberninja2014/style.css");
+
+* {
+  background-color: black !important;
+  color: white !important;
+}
