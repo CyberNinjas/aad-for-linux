@@ -2,10 +2,12 @@
 
 ## Projects
 
-- https://github.com/CyberNinjas/pam_aad
-- https://github.com/CyberNinjas/libnss_aad
-- https://github.com/CyberNinjas/openvpn-auth-aad
-- https://github.com/CyberNinjas/puppet-aad
+<ul>
+  <li><a href="https://github.com/CyberNinjas/pam_aad">pam_aad</a></li>
+  <li><a href="https://github.com/CyberNinjas/libnss_aad">libnss_aad</a></li>
+  <li><a href="https://github.com/CyberNinjas/openvpn-auth-aad">openvpn-auth-aad</a></li>
+  <li><a href="https://github.com/CyberNinjas/puppet-aad">puppet-aad</a></li>
+</ul>
 
 ## License
 
